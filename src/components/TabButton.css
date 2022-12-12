@@ -1,0 +1,31 @@
+#tab-button{
+    display:inline-flex;
+    border:2px solid rgb(194, 168, 85);
+    border-radius: 10px;
+    overflow: hidden;
+    height: 30px;
+
+}
+.btn{
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(210, 164, 90, 0.959);
+    border-right: 1px solid rgb(197, 144, 22) ;
+    
+    
+}
+.Active{
+    background-color:rgb(105, 77, 40);
+    
+    
+    /* border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-right: 1px solid lightblue ;
+    cursor: pointer; */
+}

@@ -1,0 +1,13 @@
+#course-div{
+    height:20vh;
+    width:20vw;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    background-color: azure;
+    box-shadow: 2px 2px 0 gray;
+    font-style: italic;
+    color: blue;
+    font-size: 25px;
+}
